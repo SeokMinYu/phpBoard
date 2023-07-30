@@ -1,0 +1,66 @@
+
+************************************************
+PageCall time : [16:50:56]
+ P_TID : null
+ P_MID : null
+ P_AUTH_DT : null
+ P_STATUS : null
+ P_TYPE : null
+ P_OID : null
+ P_FN_CD1 : null
+ P_FN_CD2 : null
+ P_FN_NM : null
+ P_AMT : null
+ P_UNAME : null
+ P_RMESG1 : null
+ P_RMESG2 : null
+ P_NOTI : null
+ P_AUTH_NO : null
+ P_CARD_ISSUER_CODE : null
+ P_CARD_NUM : null
+************************************************
+
+
+************************************************
+PageCall time : [17:01:41]
+ P_TID : INIMX_ISP_INIpayTest20101029170132904781
+ P_MID : INIpayTest
+ P_AUTH_DT : 20101029170134
+ P_STATUS : 00
+ P_TYPE : ISP
+ P_OID : 11095165953
+ P_FN_CD1 : 11
+ P_FN_CD2 : 11
+ P_FN_NM : BC카드
+ P_AMT : 1004
+ P_UNAME : 기술지원
+ P_RMESG1 : 정상완료
+ P_RMESG2 : 00
+ P_NOTI : addr=서울시 동작구 사당1동 100-100|delivery_date=20991231|sender_name=견우|recv_name=직녀
+ P_AUTH_NO : 68995751
+ P_CARD_ISSUER_CODE : 00
+ P_CARD_NUM : 49062540****6641
+************************************************
+
+
+************************************************
+PageCall time : [17:18:40]
+ P_TID : INIMX_VBNKINIpayTest20101029171834034366
+ P_MID : INIpayTest
+ P_AUTH_DT : 20101029171834
+ P_STATUS : 00
+ P_TYPE : VBANK
+ P_OID : 11095171819
+ P_FN_CD1 : 04
+ P_FN_CD2 : 
+ P_FN_NM : 국민은행
+ P_AMT : 1004
+ P_UNAME : 기술지원
+ P_RMESG1 : P_VACCT_NO=45589012562719|P_EXP_DT=20101108235900
+ P_RMESG2 : 
+ P_NOTI : 
+ P_AUTH_NO : 
+ P_CARD_ISSUER_CODE : null
+ P_CARD_NUM : null
+************************************************
+

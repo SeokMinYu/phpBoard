@@ -1,0 +1,50 @@
+106.246.89.150 - [22/Mar/2021:13:32:57 +0900] /php/gboard/bbs/board.php: test = 1 or 1=1: SQL_Injection 공격 패턴 탐지
+106.246.89.150 - [22/Mar/2021:13:33:29 +0900] /php/gboard/bbs/board.php: test = 1 or 1=1: SQL_Injection 공격 패턴 탐지
+106.246.89.150 - [22/Mar/2021:13:34:24 +0900] /php/gboard/bbs/board.php: wr_id = 1 or 1=1: SQL_Injection 공격 패턴 탐지
+ -&gt; [Method: GET]
+ -&gt; [Policy: 기본정책]
+ -&gt; [Pattern: or[[:space:]]+[[:alnum:]]+[[:space:]]*=[[:space:]]*[[:alnum:]]+]
+106.246.89.150 - [22/Mar/2021:13:34:47 +0900] /php/gboard/bbs/board.php: wr_id = 1 or 1=1: SQL_Injection 공격 패턴 탐지
+ -&gt; [Method: GET]
+ -&gt; [Policy: 기본정책]
+ -&gt; [Pattern: or[[:space:]]+[[:alnum:]]+[[:space:]]*=[[:space:]]*[[:alnum:]]+]
+106.246.89.150 - [22/Mar/2021:13:43:38 +0900] /php/gboard/bbs/write_update.php: 0 = read.php: 차단된 이름 파일(array) 업로드
+ -&gt; [Method: FILE]
+ -&gt; [Policy: 파일정책]
+ -&gt; [Pattern: check filename]
+106.246.89.150 - [22/Mar/2021:13:45:32 +0900] /php/gboard/bbs/write_update.php: 0 = test.asp: 차단된 이름 파일(array) 업로드
+ -&gt; [Method: FILE]
+ -&gt; [Policy: 파일정책]
+ -&gt; [Pattern: check filename]
+106.246.89.150 - [22/Mar/2021:13:51:42 +0900] /php/board10/list_view.php: idx = 103 or 1=1: SQL_Injection 공격 패턴 탐지
+ -&gt; [Method: GET]
+ -&gt; [Policy: 기본정책]
+ -&gt; [Pattern: or[[:space:]]+[[:alnum:]]+[[:space:]]*=[[:space:]]*[[:alnum:]]+]
+106.246.89.150 - [22/Mar/2021:13:52:56 +0900] /php/board10/list_modify_ok.php: 0 = modify_ok.php: 차단된 이름 파일(array) 업로드
+ -&gt; [Method: FILE]
+ -&gt; [Policy: 파일정책]
+ -&gt; [Pattern: check filename]
+106.246.89.150 - [22/Mar/2021:14:02:52 +0900] /php/board10/login_ok.php: user_pw = 1'or 1=1: SQL_Injection 공격 패턴 탐지
+ -&gt; [Method: POST]
+ -&gt; [Policy: 기본정책]
+ -&gt; [Pattern: or[[:space:]]+[[:alnum:]]+[[:space:]]*=[[:space:]]*[[:alnum:]]+]
+106.246.89.150 - [22/Mar/2021:14:03:17 +0900] /php/board10/login_ok.php: user_pw = 1'or 1=1: SQL_Injection 공격 패턴 탐지
+ -&gt; [Method: POST]
+ -&gt; [Policy: 기본정책]
+ -&gt; [Pattern: or[[:space:]]+[[:alnum:]]+[[:space:]]*=[[:space:]]*[[:alnum:]]+]
+106.246.89.150 - [22/Mar/2021:14:03:35 +0900] /php/board10/login_ok.php: user_pw = 1' or 1=1: SQL_Injection 공격 패턴 탐지
+ -&gt; [Method: POST]
+ -&gt; [Policy: 기본정책]
+ -&gt; [Pattern: or[[:space:]]+[[:alnum:]]+[[:space:]]*=[[:space:]]*[[:alnum:]]+]
+106.246.89.150 - [22/Mar/2021:14:03:59 +0900] /php/board10/login_ok.php: user_pw = 1' or 1=1: SQL_Injection 공격 패턴 탐지
+ -&gt; [Method: POST]
+ -&gt; [Policy: 기본정책]
+ -&gt; [Pattern: or[[:space:]]+[[:alnum:]]+[[:space:]]*=[[:space:]]*[[:alnum:]]+]
+106.246.89.150 - [22/Mar/2021:14:04:21 +0900] /php/board10/login_ok.php: user_pw = 1' or 1=1: SQL_Injection 공격 패턴 탐지
+ -&gt; [Method: POST]
+ -&gt; [Policy: 기본정책]
+ -&gt; [Pattern: or[[:space:]]+[[:alnum:]]+[[:space:]]*=[[:space:]]*[[:alnum:]]+]
+106.246.89.150 - [22/Mar/2021:14:04:35 +0900] /php/board10/login_ok.php: user_pw = ' or 1=1: SQL_Injection 공격 패턴 탐지
+ -&gt; [Method: POST]
+ -&gt; [Policy: 기본정책]
+ -&gt; [Pattern: or[[:space:]]+[[:alnum:]]+[[:space:]]*=[[:space:]]*[[:alnum:]]+]

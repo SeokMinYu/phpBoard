@@ -1,0 +1,71 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>ERROR</title>
+<style type="text/css">
+.ERROR_RED{
+	text-align:center;
+	font:bold 28pt;
+	font-size:28pt;
+	font-weight:bold;
+	color:red;
+	position: relative;
+}
+
+.ERROR_RED:before, .ERROR_RED:after {
+	display: block;
+	position: absolute;
+	bottom: -.8em; /* You should change this value to fit your font */
+	left: 0;
+	right: 0;
+}
+.ERROR_RED:before {
+	content: 'SORRY';
+	opacity: .3;
+	/* This is how the text is flipped vertically */
+	-webkit-transform: scaleY(-1);
+	-moz-transform: scaleY(-1);
+	-o-transform: scaleY(-1);
+}
+
+.ERROR_RED:after {
+	content: '';
+	height:1em;
+	/*display: block;
+	position: absolute;
+	bottom:-.88em;
+	left: 0;
+	right: 0;
+	opacity: .3;*/
+	
+	background: -webkit-gradient(linear, left top, left center, from(rgba(255,255,255,0)), to(rgb(255,255,255)));
+	background: -moz-linear-gradient(top, rgba(255,255,255,0), rgb(255,255,255));
+	
+	/* This is how the text is flipped vertically */
+	/*-webkit-transform: scaleY(-1);
+	-moz-transform: scaleY(-1);
+	-o-transform: scaleY(-1);*/
+}
+.ERROR_BLACK1{
+	text-align:center;
+	font:bold 8pt;
+	font-size:8pt;
+	font-weight:bold;
+	color:black;
+}
+.ERROR_BLACK2{
+	text-align:center;
+	font-size:8pt;
+	color:black;
+}
+</style>
+</head>
+<body>
+<center><br><br><br>
+<p class="ERROR_RED">SORRY</p>
+<p class="ERROR_BLACK1">요청하신 페이지를 정상적으로 처리 할 수 없습니다.</p>
+<p class="ERROR_BLACK2">특별한 사유없이 위의 에러가 반복되면 관리자에게 문의하십시오.</p>
+</center>
+</body>
+</html>

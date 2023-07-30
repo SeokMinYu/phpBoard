@@ -1,0 +1,286 @@
+ Array
+(
+    [PageCall time] => 19:36:32
+    [P_TID] => INIpayTestINIpayTest00000000001111111111
+    [P_MID] => INIpayTest
+    [P_AUTH_DT] => 20101101120000
+    [P_STATUS] => 01
+    [P_TYPE] => Card
+    [P_OID] => 201010119334
+    [P_FN_CD1] => AAAA
+    [P_FN_CD2] => BBBB
+    [P_FN_NM] => CCCC
+    [P_AMT] => 5000
+    [P_UNAME] => Tester
+    [P_RMESG1] => DDDD
+    [P_RMESG2] => EEEE
+    [P_NOTI] => FFFF
+    [P_AUTH_NO] => 10002000
+    [P_CARD_ISSUER_CODE] => 01
+    [P_CARD_NUM] => 1234567890123456
+)
+
+ Array
+(
+    [PageCall time] => 19:40:57
+    [P_TID] => INIMX_VBNKINIpayTest20101101194059765678
+    [P_MID] => INIpayTest
+    [P_AUTH_DT] => 20101101194100
+    [P_STATUS] => 00
+    [P_TYPE] => VBANK
+    [P_OID] => 2010101194039
+    [P_FN_CD1] => 04
+    [P_FN_CD2] => 
+    [P_FN_NM] => 국민은행
+    [P_AMT] => 6000
+    [P_UNAME] => 기술지원
+    [P_RMESG1] => P_VACCT_NO=45589012082497|P_EXP_DT=20101111235900
+    [P_RMESG2] => 
+    [P_NOTI] => addr=서울시 동작구 사당1동 100-100|delivery_date=20991231|sender_name=견우|recv_name=직녀
+    [P_AUTH_NO] => 
+    [P_CARD_ISSUER_CODE] => 
+    [P_CARD_NUM] => 
+)
+
+ Array
+(
+    [PageCall time] => 19:58:43
+    [P_TID] => INIMX_VBNKINIpayTest20101101195846131473
+    [P_MID] => INIpayTest
+    [P_AUTH_DT] => 20101101195846
+    [P_STATUS] => 00
+    [P_TYPE] => VBANK
+    [P_OID] => 2010101195821
+    [P_FN_CD1] => 03
+    [P_FN_CD2] => 
+    [P_FN_NM] => 기업은행
+    [P_AMT] => 200
+    [P_UNAME] => 기술지원
+    [P_RMESG1] => P_VACCT_NO=07500433197003|P_EXP_DT=20101111235900
+    [P_RMESG2] => 
+    [P_NOTI] => addr=서울시 동작구 사당1동 100-100|delivery_date=20991231|sender_name=견우|recv_name=직녀
+    [P_AUTH_NO] => 
+    [P_CARD_ISSUER_CODE] => 
+    [P_CARD_NUM] => 
+)
+
+ Array
+(
+    [PageCall time] => 20:02:46
+    [P_TID] => INIMX_VBNKINIpayTest20101101200249036873
+    [P_MID] => INIpayTest
+    [P_AUTH_DT] => 20101101200249
+    [P_STATUS] => 00
+    [P_TYPE] => VBANK
+    [P_OID] => 201010120237
+    [P_FN_CD1] => 03
+    [P_FN_CD2] => 
+    [P_FN_NM] => 기업은행
+    [P_AMT] => 1004
+    [P_UNAME] => 기술지원
+    [P_RMESG1] => P_VACCT_NO=07500411997331|P_EXP_DT=20101111235900
+    [P_RMESG2] => 
+    [P_NOTI] => addr=서울시 동작구 사당1동 100-100|delivery_date=20991231|sender_name=견우|recv_name=직녀
+    [P_AUTH_NO] => 
+    [P_CARD_ISSUER_CODE] => 
+    [P_CARD_NUM] => 
+)
+
+ Array
+(
+    [PageCall time] => 20:13:01
+    [P_TID] => INIMX_VBNKINIpayTest20101101201303591460
+    [P_MID] => INIpayTest
+    [P_AUTH_DT] => 20101101201303
+    [P_STATUS] => 00
+    [P_TYPE] => VBANK
+    [P_OID] => 2010101201255
+    [P_FN_CD1] => 04
+    [P_FN_CD2] => 
+    [P_FN_NM] => 국민은행
+    [P_AMT] => 1004
+    [P_UNAME] => 기술지원
+    [P_RMESG1] => P_VACCT_NO=45549012740564|P_EXP_DT=20101111235900
+    [P_RMESG2] => 
+    [P_NOTI] => addr=서울시 동작구 사당1동 100-100|delivery_date=20991231|sender_name=견우|recv_name=직녀
+    [P_AUTH_NO] => 
+    [P_CARD_ISSUER_CODE] => 
+    [P_CARD_NUM] => 
+)
+
+ Array
+(
+    [PageCall time] => 20:13:39
+    [P_TID] => INIMX_VBNKINIpayTest20101101201341643189
+    [P_MID] => INIpayTest
+    [P_AUTH_DT] => 20101101201341
+    [P_STATUS] => 00
+    [P_TYPE] => VBANK
+    [P_OID] => 2010101201333
+    [P_FN_CD1] => 04
+    [P_FN_CD2] => 
+    [P_FN_NM] => 국민은행
+    [P_AMT] => 1004
+    [P_UNAME] => 기술지원
+    [P_RMESG1] => P_VACCT_NO=45129012140344|P_EXP_DT=20101111235900
+    [P_RMESG2] => 
+    [P_NOTI] => addr=서울시 동작구 사당1동 100-100|delivery_date=20991231|sender_name=견우|recv_name=직녀
+    [P_AUTH_NO] => 
+    [P_CARD_ISSUER_CODE] => 
+    [P_CARD_NUM] => 
+)
+
+ Array
+(
+    [PageCall time] => 20:14:53
+    [P_TID] => INIMX_VBNKINIpayTest20101101201456150252
+    [P_MID] => INIpayTest
+    [P_AUTH_DT] => 20101101201456
+    [P_STATUS] => 00
+    [P_TYPE] => VBANK
+    [P_OID] => 2010101201446
+    [P_FN_CD1] => 05
+    [P_FN_CD2] => 
+    [P_FN_NM] => 외환은행
+    [P_AMT] => 1004
+    [P_UNAME] => 기술지원
+    [P_RMESG1] => P_VACCT_NO=920228331821|P_EXP_DT=20101111235900
+    [P_RMESG2] => 
+    [P_NOTI] => addr=서울시 동작구 사당1동 100-100|delivery_date=20991231|sender_name=견우|recv_name=직녀
+    [P_AUTH_NO] => 
+    [P_CARD_ISSUER_CODE] => 
+    [P_CARD_NUM] => 
+)
+
+ Array
+(
+    [PageCall time] => 20:16:30
+    [P_TID] => INIMX_VBNKINIpayTest20101101201633008310
+    [P_MID] => INIpayTest
+    [P_AUTH_DT] => 20101101201633
+    [P_STATUS] => 00
+    [P_TYPE] => VBANK
+    [P_OID] => 2010101201623
+    [P_FN_CD1] => 32
+    [P_FN_CD2] => 
+    [P_FN_NM] => 부산은행
+    [P_AMT] => 1004
+    [P_UNAME] => 기술지원
+    [P_RMESG1] => P_VACCT_NO=103939056090|P_EXP_DT=20101111235900
+    [P_RMESG2] => 
+    [P_NOTI] => addr=서울시 동작구 사당1동 100-100|delivery_date=20991231|sender_name=견우|recv_name=직녀
+    [P_AUTH_NO] => 
+    [P_CARD_ISSUER_CODE] => 
+    [P_CARD_NUM] => 
+)
+
+ Array
+(
+    [PageCall time] => 20:18:39
+    [P_TID] => INIMX_VBNKINIpayTest20101101201837766879
+    [P_MID] => INIpayTest
+    [P_AUTH_DT] => 20101101201838
+    [P_STATUS] => 00
+    [P_TYPE] => VBANK
+    [P_OID] => 2010101201829
+    [P_FN_CD1] => 11
+    [P_FN_CD2] => 
+    [P_FN_NM] => 농협중앙회
+    [P_AMT] => 1004
+    [P_UNAME] => 기술지원
+    [P_RMESG1] => P_VACCT_NO=01445064315168|P_EXP_DT=20101111235900
+    [P_RMESG2] => 
+    [P_NOTI] => addr=서울시 동작구 사당1동 100-100|delivery_date=20991231|sender_name=견우|recv_name=직녀
+    [P_AUTH_NO] => 
+    [P_CARD_ISSUER_CODE] => 
+    [P_CARD_NUM] => 
+)
+
+ Array
+(
+    [PageCall time] => 20:19:40
+    [P_TID] => INIpayTestINIpayTest00000000001111111111
+    [P_MID] => INIpayTest
+    [P_AUTH_DT] => 20101101120000
+    [P_STATUS] => 01
+    [P_TYPE] => Card
+    [P_OID] => 2010101201925
+    [P_FN_CD1] => 한글
+    [P_FN_CD2] => 한글
+    [P_FN_NM] => 한글
+    [P_AMT] => 한글
+    [P_UNAME] => 한글
+    [P_RMESG1] => 한글
+    [P_RMESG2] => 한글
+    [P_NOTI] => 한글
+    [P_AUTH_NO] => 한글
+    [P_CARD_ISSUER_CODE] => 한글
+    [P_CARD_NUM] => 한글
+)
+
+ Array
+(
+    [PageCall time] => 20:21:32
+    [P_TID] => INIMX_VBNKINIpayTest20101101202134526988
+    [P_MID] => INIpayTest
+    [P_AUTH_DT] => 20101101202134
+    [P_STATUS] => 00
+    [P_TYPE] => VBANK
+    [P_OID] => 2010101202127
+    [P_FN_CD1] => 05
+    [P_FN_CD2] => 
+    [P_FN_NM] => 외환은행
+    [P_AMT] => 1004
+    [P_UNAME] => 기술지원
+    [P_RMESG1] => P_VACCT_NO=920228444106|P_EXP_DT=20101111235900
+    [P_RMESG2] => 
+    [P_NOTI] => addr=서울시 동작구 사당1동 100-100|delivery_date=20991231|sender_name=견우|recv_name=직녀
+    [P_AUTH_NO] => 
+    [P_CARD_ISSUER_CODE] => 
+    [P_CARD_NUM] => 
+)
+
+ Array
+(
+    [PageCall time] => 20:27:28
+    [P_TID] => INIMX_VBNKINIpayTest20101101202731216955
+    [P_MID] => INIpayTest
+    [P_AUTH_DT] => 20101101202731
+    [P_STATUS] => 00
+    [P_TYPE] => VBANK
+    [P_OID] => 2010101202719
+    [P_FN_CD1] => 11
+    [P_FN_CD2] => 
+    [P_FN_NM] => 농협중앙회
+    [P_AMT] => 1004
+    [P_UNAME] => 기술지원
+    [P_RMESG1] => P_VACCT_NO=01444364343599|P_EXP_DT=20101111235900
+    [P_RMESG2] => 
+    [P_NOTI] => addr=서울시 동작구 사당1동 100-100|delivery_date=20991231|sender_name=견우|recv_name=직녀
+    [P_AUTH_NO] => 
+    [P_CARD_ISSUER_CODE] => 
+    [P_CARD_NUM] => 
+)
+
+ Array
+(
+    [PageCall time] => 20:28:55
+    [P_TID] => INIMX_VBNKINIpayTest20101101202857476528
+    [P_MID] => INIpayTest
+    [P_AUTH_DT] => 20101101202857
+    [P_STATUS] => 00
+    [P_TYPE] => VBANK
+    [P_OID] => 2010101202849
+    [P_FN_CD1] => 71
+    [P_FN_CD2] => 
+    [P_FN_NM] => 우체국
+    [P_AMT] => 1004
+    [P_UNAME] => 기술지원
+    [P_RMESG1] => P_VACCT_NO=01401981223731|P_EXP_DT=20101111235900
+    [P_RMESG2] => 
+    [P_NOTI] => addr=서울시 동작구 사당1동 100-100|delivery_date=20991231|sender_name=견우|recv_name=직녀
+    [P_AUTH_NO] => 
+    [P_CARD_ISSUER_CODE] => 
+    [P_CARD_NUM] => 
+)
+
